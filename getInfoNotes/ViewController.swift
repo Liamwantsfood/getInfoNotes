@@ -9,6 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    var test: Int = 7
     @IBOutlet weak var labelOutlet: UILabel!
     
     @IBOutlet weak var ageOutlet: UITextField!
